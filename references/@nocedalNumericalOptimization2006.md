@@ -16,10 +16,6 @@ Jorge Nocedal, Stephen J. Wright
 
 ## Summary
 
-```toc
-```
-
-
 ## Chapter 10 / Least Squares Problems
 ### [[leastSquaresProblems|Least Squares Problems]]
 ### [[linearLeastSquares|Linear Least Squares]]
