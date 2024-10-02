@@ -1,9 +1,9 @@
 ---
+# [[@barfootStateEstimationRobotics2020]]
 title: State Estimation for Robotics
 authors:
   - Timothy D. Barfoot
 year: 2020
-Zotero URI: zotero://select/library/items/6HLBWARA
 aliases:
   - State Estimation for Robotics
 tags:
@@ -11,3 +11,8 @@ tags:
   - computer_vision
   - optimization
 ---
+# State Estimation for Robotics
+
+# Citation
+
+Barfoot, T. D. (2020). _State Estimation for Robotics_. Cambridge University Press.

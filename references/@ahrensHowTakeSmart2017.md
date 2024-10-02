@@ -1,9 +1,9 @@
 ---
+# [[@ahrensHowTakeSmart2017]]
 title: "How to take smart notes: One simple technique to boost writing, learning and thinking: For students, academics and nonfiction book writers"
 authors:
   - Sönke Ahrens
 year: 2017
-Zotero URI: zotero://select/library/items/MA8HBXSR
 aliases:
   - How to take smart notes
 tags:
@@ -12,9 +12,7 @@ tags:
 ---
 
 # How to Take Smart Notes
-Sönke Ahrens
 
-## Summary
 - Make *learning* the primary goal. The process of improvement itself is rewarding.
 - Experts do not need to plan, they just react to the upcoming situation.
 - Need to be able to switch between different types of focus. 
@@ -40,3 +38,7 @@ Sönke Ahrens
 - Abstracting an idea away from a problem will result in the generation of more pragmatic and generalized solutions.
     - This is especially true for engineers. By abstracting a problem away from its context, we might sometimes stumble upon similar problems in seemingly unrelated fields, allowing us to create more clever solutions.
 - Write your literature notes for yourself, but assume your evergreen notes are to be understood by others as well. Being able to explain something (in a lecture, or a note on a small scale) is the true measure of how well you understand something.
+
+# Citation
+
+Ahrens, S. (2017). _How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers_. 

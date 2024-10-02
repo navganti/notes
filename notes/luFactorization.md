@@ -34,4 +34,4 @@ where $L$ is lower triangular and $U$ is upper triangular. The LU factorization 
 ## References
 
 [[@nocedalNumericalOptimization2006]]
-[[@mitopencoursewareFactorizationLU2017]]
+[[@strangFactorizationLU2017]]

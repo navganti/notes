@@ -1,12 +1,16 @@
 ---
+# [[@microsoftMainFunctionCommandline]]
 title: "`main` function and command-line arguments (C++)"
 authors:
   - Microsoft
-url: https://docs.microsoft.com/en-us/cpp/cpp/main-function-command-line-args
-Zotero URI: zotero://select/library/items/B42HKLZF
 aliases:
-  - "`main` function and command-line arguments (C++)"
+  - "main function and command-line arguments (C++)"
 tags:
   - cpp
   - programming
 ---
+# `main` Function and Command-line Arguments (C++)
+
+# Citation
+
+Microsoft. (n.d.). _`main` function and command-line arguments (C++)_. Retrieved 31 January 2022, from [https://docs.microsoft.com/en-us/cpp/cpp/main-function-command-line-args](https://docs.microsoft.com/en-us/cpp/cpp/main-function-command-line-args)

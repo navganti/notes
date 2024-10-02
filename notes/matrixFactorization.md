@@ -16,4 +16,4 @@ Matrix factorization is the process of breaking down a matrix into submatrices. 
 [[qrFactorization|QR Factorization]]
 
 ## References
-[[@nocedalNumericalOptimization2006|nocedalNumericalOptimization2006]]
+[[@nocedalNumericalOptimization2006]]

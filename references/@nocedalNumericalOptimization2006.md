@@ -1,9 +1,9 @@
 ---
+# [[@nocedalNumericalOptimization2006]]
 title: Numerical optimization
 authors:
   - Jorge Nocedal, Stephen J. Wright
 year: 2006
-Zotero URI: zotero://select/library/items/GVID3NT9
 aliases:
   - Numerical optimization
 tags:
@@ -12,9 +12,6 @@ tags:
 ---
 
 # Numerical Optimization
-Jorge Nocedal, Stephen J. Wright
-
-## Summary
 
 ## Chapter 10 / Least Squares Problems
 ### [[leastSquaresProblems|Least Squares Problems]]
@@ -38,3 +35,7 @@ Jorge Nocedal, Stephen J. Wright
 ####  [[luFactorization|LU Factorization]]
 #### [[choleskyFactorization|Cholesky Factorization]]
 #### [[qrFactorization|QR Factorization]]
+
+# Citation
+
+Nocedal, J., & Wright, S. J. (2006). _Numerical optimization_ (2nd ed). Springer.
