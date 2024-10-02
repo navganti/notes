@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "71dbefdda466409f",
+    "type": "split",
+    "children": [
+      {
+        "id": "59fbcf93bbbb0fcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75cba2396f35f86a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e636235954eb91c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "41806360c5b2641e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "032d08df279022d1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "335828cde7624d18",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "666fce2beb75cba3",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "93ee6bebe47d2399",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "6831ebf7a95c1fa2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "c2e4e5c77315d226",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b23f6bbe3ec443d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fbaaa2c516d45d55",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b48d3a8520f22a8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0b3f32b8fbd59c9d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "f7b37395271b7857",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "f7b37395271b7857",
+  "lastOpenFiles": [
+    "coppermind/Untitled.md",
+    "coppermind/cppDefinition.md",
+    "daily/U.md",
+    "daily",
+    "references/@gaoIntroductionVisualSLAM2022.md",
+    "coppermind/writingVsCoding.md",
+    "coppermind/perturbationModel.md",
+    "coppermind/linearProgramming.md",
+    "coppermind/matrixFactorization.md",
+    "coppermind/luFactorization.md",
+    "coppermind/qrFactorization.md",
+    "coppermind/choleskyFactorization.md",
+    "coppermind/focalLength.md",
+    "references/@levoyImageFormation.md",
+    "references/@barfootStateEstimationRobotics2020.md",
+    "references/nocedalNumericalOptimization2006.md",
+    "attachments/mitopencoursewareFactorizationLU2017_001.jpg",
+    "attachments/gaoIntroductionVisualSLAM2022_001.png",
+    "obsidian.css",
+    "attachments/scroggsAvoidUrgencyTrap_001.png",
+    "attachments/corob-msftLambdaExpressions_001.png",
+    "references/references.bib",
+    "Untitled.canvas",
+    "coppermind/202307222005.md",
+    "coppermind/bchApproximation.md",
+    "references/@microsoftDefineDirective.md",
+    "references/@cppconBackBasicsStructure2020.md",
+    "references/@ahrensHowTakeSmart2017.md",
+    "coppermind/leastSquaresProblems.md",
+    "coppermind/mathGroup.md",
+    "coppermind/eisenhowerMatrix.md",
+    "coppermind/cppDefineDirective.md",
+    "references/@nocedalNumericalOptimization2006.md",
+    "coppermind/adChallengesSLAM.md",
+    "references",
+    "musaeum/references.bib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "attachments",
+  "foldHeading": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "trashOption": "system",
+  "spellcheck": true,
+  "vimMode": true,
+  "showFrontmatter": true,
+  "useTab": false,
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": null,
+  "readableLineLength": true,
+  "newFileFolderPath": "notes",
+  "newLinkFormat": "shortest",
+  "showInlineTitle": true,
+  "propertiesInDocument": "visible",
+  "useMarkdownLinks": false
+}

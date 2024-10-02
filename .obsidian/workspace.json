@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "0ca97a874582c54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fdb4f30e2a13a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b0aa299e788b638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/@vaswaniAttentionAllYou2023.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4d6742076430869",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151c021b7060c8e",
+        "type": "tabs",
+        "dimension": 60.82901554404145,
+        "children": [
+          {
+            "id": "1816044f67747b0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cd3b94ab292e5c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e46fe475b951eb50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac64bb6d14dd88f0",
+        "type": "tabs",
+        "dimension": 39.17098445595855,
+        "children": [
+          {
+            "id": "20807c1009edb704",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "references/@vaswaniAttentionAllYou2023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334
+  },
+  "right": {
+    "id": "d9e7fde226018175",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7c6105d35e567d",
+        "type": "tabs",
+        "dimension": 55.4563492063492,
+        "children": [
+          {
+            "id": "349aa10b3befe1a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "references/@vaswaniAttentionAllYou2023.md"
+              }
+            }
+          },
+          {
+            "id": "f72645ccc3eac59b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "references/@vaswaniAttentionAllYou2023.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2b5dfdf406e91b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "references/@vaswaniAttentionAllYou2023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8b1076ac76574a41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f41384368fe39f86",
+        "type": "tabs",
+        "dimension": 44.5436507936508,
+        "children": [
+          {
+            "id": "1679d2f0b3d4917c",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f653d4649f289a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "6b0aa299e788b638",
+  "lastOpenFiles": [
+    "references/@strangFactorizationLU2017.md",
+    "references/@vaswaniAttentionAllYou2023.md",
+    "references/@nocedalNumericalOptimization2006.md",
+    "references/@microsoftMainFunctionCommandline.md",
+    "references/@microsoftDefineDirective.md",
+    "references/@microsoftLambdaExpressions.md",
+    "references/@levoyImageFormation.md",
+    "references/@ahrensHowTakeSmart2017.md",
+    "references/@barfootStateEstimationRobotics2020.md",
+    "references/@cppconBackBasicsStructure2020.md",
+    "references/@gaoIntroductionVisualSLAM2022.md",
+    "notes/aperture.md",
+    "notes/202410021614.md",
+    "notes/202410021611.md",
+    "notes/luFactorization.md",
+    "templates/reference_template.md",
+    "templates/note_template.md",
+    "notes/202410021603.md",
+    "notes/202410021604.md",
+    "notes/202410021602.md",
+    "notes/202410021601.md",
+    "notes/matrixFactorization.md",
+    "references/@mitopencoursewareFactorizationLU2017.md",
+    "notes/machineLearningAttention.md",
+    "templates/ref_temp_2.md",
+    "notes/vanishingPoints.md",
+    "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",
+    "attachments/luFactorization",
+    "attachments/microsoftLambdaExpressions",
+    "attachments/gaoIntroductionVisualSLAM2022",
+    "coppermind",
+    "attachments/microsoftLambdaExpressions/corob-msftLambdaExpressions_001.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "recipes"
+  ]
+}

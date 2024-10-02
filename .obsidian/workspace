@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "0ca97a874582c54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d856bce7aa5493",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "musaeum/@microsoftDevelopingContainerUsing.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "20a6bedc529b0513",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "coppermind/cppDefineDirective.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "544d9a090577ebc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "coppermind/oneDefinitionRule.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4d6742076430869",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151c021b7060c8e",
+        "type": "tabs",
+        "dimension": 68.85964912280703,
+        "children": [
+          {
+            "id": "1816044f67747b0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cd3b94ab292e5c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#define",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7808755d27fd1f39",
+        "type": "tabs",
+        "dimension": 31.140350877192976,
+        "children": [
+          {
+            "id": "9b7fe8a7bad47cf8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334
+  },
+  "right": {
+    "id": "d9e7fde226018175",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aa58ac36614eaff",
+        "type": "tabs",
+        "dimension": 31.55234657039711,
+        "children": [
+          {
+            "id": "219cd1ec1fcf6f1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0302bd5b3cc022fd",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb1420a19ff02e72",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1bcb51228164e794",
+        "type": "tabs",
+        "dimension": 33.71841155234657,
+        "children": [
+          {
+            "id": "2b5dfdf406e91b52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "coppermind/cppDefineDirective.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f72645ccc3eac59b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "coppermind/cppDefineDirective.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d5161986926162f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f41384368fe39f86",
+        "type": "tabs",
+        "dimension": 34.729241877256314,
+        "children": [
+          {
+            "id": "0f653d4649f289a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7aaa6ac86816bf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "active": "20a6bedc529b0513",
+  "lastOpenFiles": [
+    "coppermind/cppDefineDirective.md",
+    "musaeum/@microsoftDevelopingContainerUsing.md",
+    "coppermind/oneDefinitionRule.md",
+    "musaeum/@microsoftDefineDirective.md",
+    "coppermind/202204141109.md",
+    "musaeum/@microsoftMainFunctionCommandline.md",
+    "musaeum/@mullerInstantNeuralGraphics2022.md",
+    "coppermind/perturbationModel.md",
+    "coppermind/202204131717.md",
+    "musaeum/@mitopencoursewareFactorizationLU2017.md"
+  ]
+}

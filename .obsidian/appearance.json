@@ -1,0 +1,17 @@
+{
+  "theme": "system",
+  "baseFontSize": 15,
+  "cssTheme": "",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "centerImg",
+    "center_image"
+  ],
+  "accentColor": "#752ecc",
+  "interfaceFontFamily": "Segoe UI",
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "Aptos Display",
+  "baseFontSizeAction": true
+}
