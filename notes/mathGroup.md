@@ -1,0 +1,18 @@
+---
+aliases: [Group]
+tags: [math]
+---
+# Group
+
+A group is a mathematical construct consisting of a *set*, and an *operator*. The group must satisfy the following axioms:
+
+- Closure
+- Combination
+- Unit element
+- Inverse
+
+## Related
+[[lieGroup|Lie Group]]
+
+## References
+[[@gaoIntroductionVisualSLAM2022]]
