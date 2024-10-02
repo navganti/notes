@@ -8,15 +8,15 @@ Command line arguments can be passed to a C++ program by specifying your main fu
 
 >[!example]
 >```cpp
->int main(int argc, char** argv) {
->   ...
->}
->```
-> or...
->```cpp
->int main(int argc, char* argv[]) {
->    ...
->}
+> /// First option
+> int main(int argc, char** argv) {
+> ...
+> }
+ >
+ > /// Second option
+> int main(int argc, char* argv[]) {
+> ...
+> }
 
 `argc` indicates the number of strings pointed to by `argv`. This is usually 1+ the number of arguments (since calling the program itself will require the executable name).
 
