@@ -11,8 +11,13 @@
             "id": "0652a20bd378ca0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/mlTokenizers.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -60,14 +65,17 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "notes/mlTokenizers.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e7fde226018175",
@@ -83,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/mlTokenizers.md"
+              }
             }
           },
           {
@@ -92,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/mlTokenizers.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/mlTokenizers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,6 +198,10 @@
   },
   "active": "0652a20bd378ca0a",
   "lastOpenFiles": [
+    "references/@huggingfaceTokenizers.md",
+    "notes/mlTokenizers.md",
+    "notes/mlTokenizers.md",
+    "references/@TokenizersHuggingFace.md",
     "notes/conditionNumber.md",
     "references/@vaswaniAttentionAllYou2023.md",
     "references/@strangFactorizationLU2017.md",
@@ -207,10 +224,6 @@
     "notes/202410021614.md",
     "notes/202410021611.md",
     "notes/luFactorization.md",
-    "templates/note_template.md",
-    "notes/202410021603.md",
-    "notes/202410021604.md",
-    "notes/202410021602.md",
     "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",
     "attachments/luFactorization",
     "attachments/microsoftLambdaExpressions",
