@@ -16,6 +16,10 @@ tags:
 ---
 # {{title}}
 
+## Summary
+
+## Notes
+
 # Citation
 
 {{bibliography}}

@@ -12,4 +12,4 @@ tags:
 # `#define` Directive (C/C++)
 
 # Citation
-Microsoft. (n.d.). _#define directive (C/C++)_. Retrieved 14 April 2022, from [https://docs.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp](https://docs.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp)
+Microsoft. (n.d.). _define directive (C/C++)_. Retrieved 14 April 2022, from [https://docs.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp](https://docs.microsoft.com/en-us/cpp/preprocessor/hash-define-directive-c-cpp)
