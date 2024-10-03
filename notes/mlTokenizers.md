@@ -12,6 +12,9 @@ A *vocabulary* is the number of independent tokens in the corpus.
 
 Similarly to computer vision preprocessing steps, tokenization can add padding or truncate sentences to ensure that examples are the same length and fit within model parameters.
 
+>[!note]
+>Different architectures will have different tokenization schemes! You have to ensure you use the same tokenizer during inference and training.
+
 ## Related
 
 [[mlTransformer|Transformer]]

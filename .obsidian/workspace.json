@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93591370f55142ae",
+        "id": "7c6d96f7dabb6b48",
         "type": "tabs",
         "children": [
           {
-            "id": "0652a20bd378ca0a",
+            "id": "b4de56781caec5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,11 +196,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0652a20bd378ca0a",
+  "active": "b4de56781caec5d6",
   "lastOpenFiles": [
+    "notes/mlTokenizers.md",
     "references/@huggingfaceTokenizers.md",
-    "notes/mlTokenizers.md",
-    "notes/mlTokenizers.md",
     "references/@TokenizersHuggingFace.md",
     "notes/conditionNumber.md",
     "references/@vaswaniAttentionAllYou2023.md",
