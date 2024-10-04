@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/writingVsCoding.md",
-                "mode": "source",
+                "file": "notes/scaledDotProductAttention.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notes/writingVsCoding.md"
+                "file": "notes/scaledDotProductAttention.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/writingVsCoding.md"
+                "file": "notes/scaledDotProductAttention.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/writingVsCoding.md",
+                "file": "notes/scaledDotProductAttention.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/writingVsCoding.md",
+                "file": "notes/scaledDotProductAttention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,6 +196,8 @@
   },
   "active": "6bd4dfd49bdb3038",
   "lastOpenFiles": [
+    "references/@strangFactorizationLU2017.md",
+    "notes/writingVsCoding.md",
     "notes/vanishingPoints.md",
     "notes/transformer.md",
     "notes/tokenization.md",
@@ -220,8 +222,6 @@
     "notes/focalLength.md",
     "notes/exposure.md",
     "notes/depthofField.md",
-    "notes/cppTranslation.md",
-    "notes/cppLinkage.md",
     "attachments/transformers/model_architecture.png",
     "attachments/transformers",
     "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",
