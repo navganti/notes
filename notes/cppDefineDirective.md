@@ -11,7 +11,5 @@ The compiler will substitute the token string for every instance of the identifi
 >[!note]
 >It is not generally considered best practice to use `#define` over alternatives such as `const`.
 
-## Related
-
 ## References
 [[@microsoftDefineDirective]]

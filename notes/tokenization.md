@@ -17,7 +17,7 @@ Similarly to computer vision preprocessing steps, tokenization can add padding o
 
 ## Related
 
-[[mlTransformer|Transformer]]
+[[transformer|Transformer]]
 
 ## References
 

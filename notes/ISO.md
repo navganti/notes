@@ -10,11 +10,6 @@ The ISO is another variable that can be used to affect [[exposure]]. This can be
 
 While this can make an image look brighter, this is at the risk of adding noise to the image, as all signal noise gets amplified by this gain.
 
-## Related
-
-[[aperture|Aperture]]
-[[shutterSpeed|Shutter Speed]]
-
 ## References
 
 [[@levoyImageFormation]]

@@ -53,10 +53,5 @@ This approach should be used if greater robustness is required.
 
 These approaches have a trade-off between efficiency and robustness. [[#Approach 1]]  is more efficient, while [[#Approach 3]] is more robust.
 
-## Related
-
-[[leastSquaresProblems|Least Squares Problems]]
-[[matrixFactorization|Matrix Factorization]]
-
 ## References
 [[@nocedalNumericalOptimization2006]]

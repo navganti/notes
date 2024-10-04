@@ -18,9 +18,5 @@ Cholesky decomposition can be used to solve linear equations through forward and
 
 Cholesky factorization is very commonly used to solve the SLAM problem, due to the characteristic sparse structure of the Hessian matrix.
 
-## Related
-[[matrixFactorization|Matrix Factorization]]
-[[qrFactorization|QR Factorization]]
-
 ## References
 [[@nocedalNumericalOptimization2006]]

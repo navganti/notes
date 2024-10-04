@@ -14,7 +14,5 @@ H = E \times t
 $$
 where $E$ is the [[irradiance]] and $t$ is time. 
 
-## Related
-
 ## References
 [[@levoyImageFormation]]

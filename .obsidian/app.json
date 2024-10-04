@@ -17,7 +17,7 @@
   "readableLineLength": true,
   "newFileFolderPath": "notes",
   "newLinkFormat": "shortest",
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "propertiesInDocument": "visible",
   "useMarkdownLinks": false
 }

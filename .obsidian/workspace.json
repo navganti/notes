@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c6d96f7dabb6b48",
+        "id": "776519f5c9536b85",
         "type": "tabs",
         "children": [
           {
-            "id": "b4de56781caec5d6",
+            "id": "91c5246c37c88a0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/mlTokenizers.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -65,17 +60,14 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "notes/mlTokenizers.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "d9e7fde226018175",
@@ -91,25 +83,22 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/mlTokenizers.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "f72645ccc3eac59b",
+            "id": "b40f9cd9b990627e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/mlTokenizers.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -119,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/mlTokenizers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f41384368fe39f86",
@@ -183,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,38 +183,41 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b4de56781caec5d6",
+  "active": "91c5246c37c88a0b",
   "lastOpenFiles": [
-    "notes/mlTokenizers.md",
-    "references/@huggingfaceTokenizers.md",
-    "references/@TokenizersHuggingFace.md",
-    "notes/conditionNumber.md",
     "references/@vaswaniAttentionAllYou2023.md",
-    "references/@strangFactorizationLU2017.md",
-    "templates/reference_template.md",
-    "notes/mlScaledDotProductAttention.md",
-    "notes/mlAttention.md",
-    "notes/mlTransformer.md",
-    "references/@microsoftDefineDirective.md",
-    "notes/cppCommandLineArguments.md",
-    "notes/choleskyFactorization.md",
-    "references/@nocedalNumericalOptimization2006.md",
-    "references/@microsoftMainFunctionCommandline.md",
-    "references/@microsoftLambdaExpressions.md",
-    "references/@levoyImageFormation.md",
-    "references/@ahrensHowTakeSmart2017.md",
-    "references/@barfootStateEstimationRobotics2020.md",
-    "references/@cppconBackBasicsStructure2020.md",
-    "references/@gaoIntroductionVisualSLAM2022.md",
+    "notes/transformer.md",
+    "attachments/transformers/model_architecture.png",
+    "attachments/transformers",
     "notes/aperture.md",
-    "notes/202410021614.md",
-    "notes/202410021611.md",
+    "notes/qrFactorization.md",
+    "notes/writingVsCoding.md",
+    "notes/vanishingPoints.md",
+    "notes/scaledDotProductAttention.md",
+    "notes/202410031645.md",
+    "notes/depthofField.md",
+    "attachments/luFactorization/mitopencoursewareFactorizationLU2017_001.jpg",
+    "notes/attention.md",
+    "notes/positionalEncoding.md",
+    "templates/note_template.md",
+    "notes/matrixFactorization.md",
+    "notes/mathGroup.md",
     "notes/luFactorization.md",
+    "notes/linearProgramming.md",
+    "notes/linearLeastSquares.md",
+    "notes/lieGroup.md",
+    "notes/lieAlgebra.md",
+    "notes/leastSquaresProblems.md",
+    "notes/ISO.md",
+    "notes/irradiance.md",
+    "notes/focalLength.md",
+    "notes/exposure.md",
+    "notes/cppTranslation.md",
+    "coppermind",
     "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",
     "attachments/luFactorization",
     "attachments/microsoftLambdaExpressions",
     "attachments/gaoIntroductionVisualSLAM2022",
-    "coppermind",
     "attachments/microsoftLambdaExpressions/corob-msftLambdaExpressions_001.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

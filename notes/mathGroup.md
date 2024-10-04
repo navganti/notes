@@ -11,8 +11,5 @@ A group is a mathematical construct consisting of a *set*, and an *operator*. Th
 - Unit element
 - Inverse
 
-## Related
-[[lieGroup|Lie Group]]
-
 ## References
 [[@gaoIntroductionVisualSLAM2022]]

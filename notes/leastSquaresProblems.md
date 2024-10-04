@@ -67,9 +67,6 @@ $$
 
 where $W \in \mathbb{R}^{m\times m}$ is symmetric. In #SLAM, this is our covariance matrix.
 
-## Related
-[[linearLeastSquares|Linear Least Squares]]
-
 ## References
 
 [[@nocedalNumericalOptimization2006]]

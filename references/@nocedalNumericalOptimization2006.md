@@ -20,7 +20,7 @@ tags:
 
 
 ## Chapter 13 / Linear Programming: The Simplex Method
-### [[coppermind/linearProgramming|Linear Programming]]
+### [[linearProgramming|Linear Programming]]
 
 ## Chapter 16 / Quadratic Programming
 ### [[quadraticProgramming|Quadratic Programming]]

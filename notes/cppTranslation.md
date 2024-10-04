@@ -10,7 +10,6 @@ Translation is the act of compilation and linking of human-readable source code 
 - Phase 7-8: Syntax and semantic analysis (compilation)
 - Phase 9: Image creation (linking) 
 
-## Related
 
 ## References
 [[@cppconBackBasicsStructure2020]]

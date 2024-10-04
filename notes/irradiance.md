@@ -19,8 +19,6 @@ where $f$ is the [[focalLength|focal length]].
 >[!todo]
 >This could be better explained.
 
-## Related
-
 ## References
 
 [[@levoyImageFormation]]

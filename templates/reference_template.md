@@ -16,7 +16,8 @@ tags:
 ---
 # {{title}}
 
-## Summary
+>[!summary]
+>
 
 ## Notes
 

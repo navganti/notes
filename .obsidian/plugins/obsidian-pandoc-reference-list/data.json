@@ -1,17 +1,17 @@
 {
-  "pathToPandoc": " C:\\Users\\Nav\\AppData\\Local\\Pandoc\\pandoc.exe",
+  "pathToPandoc": "C:\\Users\\gpr1syv\\AppData\\Local\\Pandoc\\pandoc.EXE",
   "tooltipDelay": 400,
   "zoteroGroups": [
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1727916231565
+      "lastUpdate": 1727998018051
     }
   ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
-  "pathToBibliography": "C:\\Users\\Nav\\Documents\\Github\\notes\\references\\references.bib",
+  "pathToBibliography": "",
   "pullFromZotero": true,
   "hideLinks": false,
   "showCitekeyTooltips": true,

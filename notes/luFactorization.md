@@ -26,11 +26,6 @@ where $L$ is lower triangular and $U$ is upper triangular. The LU factorization 
 >[!example]
 >![[mitopencoursewareFactorizationLU2017_001.jpg]]
 
-## Related
-[[matrixFactorization|Matrix Factorization]]
-[[choleskyFactorization|Cholesky Factorization]]
-[[qrFactorization|QR Factorization]]
-
 ## References
 
 [[@nocedalNumericalOptimization2006]]

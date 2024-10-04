@@ -18,9 +18,8 @@ tags:
 ---
 # Attention Is All You Need
 
-## Summary
-
-In this paper, Vaswani et al. introduce the [[mlTransformer|Transformer]], a novel architecture which purely relies on [[mlAttention|attention]] for sequence transduction tasks. In comparison to previous work, the use of attention allows for connections to be made between elements at a further distance, as this mechanism does not rely on sequential processing unlike a recurrent neural network (RNN). This model outperforms the state of the art, and has since created the foundation for Large Language Models (LLMs) and generative pre-trained models (GPTs).
+>[!summary]
+>In this paper, Vaswani et al. introduce the [[transformer|Transformer]], a novel architecture which purely relies on [[attention|attention]] for sequence transduction tasks. In comparison to previous work, the use of attention allows for connections to be made between elements at a further distance, as this mechanism does not rely on sequential processing unlike a recurrent neural network (RNN). 
 
 ## Notes
 

@@ -12,11 +12,6 @@ The focal length of a lens is the distance from a lens that parallel rays conver
 
 A *weaker* lens has a longer focal length, as it takes longer for the light to converge.
 
-## Related
-
-[[perfectFocus|Perfect Focus]]
-[[aperture|Aperture]]
-
 ## References
 
 [[@levoyImageFormation]]

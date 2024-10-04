@@ -4,7 +4,7 @@ tags: [math, optimization]
 ---
 # Quadratic Programming
 
-Quadratic programming is the process of optimizing a *quadratic* objective function, subject to *linear* constraints. It is a type of nonlinear programming.  Similar to [[coppermind/linearProgramming|linear programming]], the constraints prohibit the optimal result from reaching $\pm\infty$. 
+Quadratic programming is the process of optimizing a *quadratic* objective function, subject to *linear* constraints. It is a type of nonlinear programming.  Similar to [[linearProgramming|Linear Programming]], the constraints prohibit the optimal result from reaching $\pm\infty$. 
 
 Quadratic functions will typically be bounded in one direction.
  

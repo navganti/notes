@@ -12,8 +12,6 @@ Vanishing points are the intersection point in an image of two projected paralle
 
 An image may have infinite number of vanishing points - it is purely dependent on the number of parallel lines present.
 
-## Related
-
 ## References
 
 [[@levoyImageFormation]]

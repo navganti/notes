@@ -17,7 +17,6 @@ where $A$ is the true area, $f$ is the focal length, and $N$ is the relative ape
 
 *f-stops* are indicators which approximately halve the light at each step. To halve the light, increase $N$ by $\sqrt(2)$.
 
-## Related
 
 ## References
 

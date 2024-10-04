@@ -4,6 +4,4 @@ tags: []
 ---
 # Title
 
-## Related
-
 ## References

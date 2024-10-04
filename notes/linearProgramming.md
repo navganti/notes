@@ -13,9 +13,6 @@ $$
 \end{align}
 $$
 
-## Related
-[[quadraticProgramming|Quadratic Programming]]
-
 ## References
 
 [[@nocedalNumericalOptimization2006]]

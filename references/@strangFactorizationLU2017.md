@@ -12,7 +12,8 @@ tags:
 
 # Factorization into A = LU 
 
-[[luFactorization|LU Factorization]]
+>[!Summary]
+>[[luFactorization|LU Factorization]]
 
 # Citation 
 

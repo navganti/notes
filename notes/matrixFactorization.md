@@ -10,10 +10,5 @@ Matrix factorization is the process of breaking down a matrix into submatrices. 
     - An identity matrix with swapped rows will swap the rows of a *postmultiplied* matrix.
     - An identity matrix with swapped columns will swap the columns of a *premultiplied* matrix
 
-## Related
-[[luFactorization|LU Factorization]]
-[[choleskyFactorization|Cholesky Factorization]]
-[[qrFactorization|QR Factorization]]
-
 ## References
 [[@nocedalNumericalOptimization2006]]
