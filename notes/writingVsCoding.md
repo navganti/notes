@@ -14,4 +14,5 @@ Coding also consists of a creative phase of development and planning, followed b
 >If reading unrelated or interconnected topics can lead to more interesting ideas, could the same be useful for generating clever coding solutions?
 
 ## References
+
 [[@ahrensHowTakeSmart2017]]

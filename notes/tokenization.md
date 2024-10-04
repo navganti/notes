@@ -15,10 +15,6 @@ Similarly to computer vision preprocessing steps, tokenization can add padding o
 >[!note]
 >Different architectures will have different tokenization schemes! You have to ensure you use the same tokenizer during inference and training.
 
-## Related
-
-[[transformer|Transformer]]
-
 ## References
 
 [[@huggingfaceTokenizers]]

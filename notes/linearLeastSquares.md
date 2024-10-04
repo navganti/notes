@@ -54,4 +54,5 @@ This approach should be used if greater robustness is required.
 These approaches have a trade-off between efficiency and robustness. [[#Approach 1]]  is more efficient, while [[#Approach 3]] is more robust.
 
 ## References
+
 [[@nocedalNumericalOptimization2006]]

@@ -20,4 +20,5 @@ A definition *must* contain everything the compiler needs to compile and execute
 Definitions must conform to the [[oneDefinitionRule|One Definition Rule]].
 
 ## References
+
 [[@cppconBackBasicsStructure2020]]

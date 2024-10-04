@@ -18,7 +18,6 @@ $$
 $$
 When $G$ is symmetric and positive definite, this is the same as a [[leastSquaresProblems|least squares problem]].
 
-## Related
-
 ## References
+
 [[@nocedalNumericalOptimization2006]]

@@ -17,4 +17,5 @@ Internal linkage is referring to a variable defined elsewhere in the current fil
 No linkage means that the variable has only been defined for use in the current scope.
 
 ## References
+
 [[@cppconBackBasicsStructure2020]]

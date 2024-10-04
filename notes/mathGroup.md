@@ -12,4 +12,5 @@ A group is a mathematical construct consisting of a *set*, and an *operator*. Th
 - Inverse
 
 ## References
+
 [[@gaoIntroductionVisualSLAM2022]]

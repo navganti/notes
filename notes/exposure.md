@@ -15,4 +15,5 @@ $$
 where $E$ is the [[irradiance]] and $t$ is time. 
 
 ## References
+
 [[@levoyImageFormation]]

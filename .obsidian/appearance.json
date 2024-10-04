@@ -1,13 +1,13 @@
 {
-  "theme": "moonstone",
+  "theme": "system",
   "baseFontSize": 15,
-  "cssTheme": "",
+  "cssTheme": "Atom",
   "translucency": false,
   "enabledCssSnippets": [
     "centerImg",
     "center_image"
   ],
-  "accentColor": "#752ecc",
+  "accentColor": "",
   "interfaceFontFamily": "Segoe UI",
   "monospaceFontFamily": "Cascadia Code",
   "nativeMenus": false,

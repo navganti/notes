@@ -19,10 +19,6 @@ where $A$ is square and orthogonal, and $R$ is upper triangular. This can be use
 >[!todo]
 >Try to understand QR decomposition better - this note is lacking.
 
-## Related
-[[matrixFactorization|Matrix Factorization]]
-[[luFactorization|LU Factorization]]
-[[choleskyFactorization|Cholesky Factorization]]
-
 ## References
+
 [[@nocedalNumericalOptimization2006]]

@@ -15,7 +15,6 @@ A perturbation model lets us numerically measure changes to the cost function du
 
 For $SO(3)$, this results in a 4x6 Jacobian.
 
-## Related
-
 ## References
+
 [[@gaoIntroductionVisualSLAM2022]]

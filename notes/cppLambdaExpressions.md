@@ -19,7 +19,6 @@ A lambda expression is a way to define an *anonymous* function at the location i
 > );
 >```
 
-
 In the above, the custom sorting operation uses the absolute value of the variables, instead of the actual value.
 
 ![[corob-msftLambdaExpressions_001.png]]
@@ -44,7 +43,8 @@ In some cases, lambda expressions should be declared outside of the function. Fo
 >for (const auto &count : counts) {
 >    q.push(count.second);
 >}
->```
+
 
 ## References
+
 [[@microsoftLambdaExpressions]]

@@ -9,4 +9,5 @@ A Lie group is a smooth, continuous [[mathGroup|group]]. The Lie group $SO(3)$ d
 The Lie group can be converted to the Lie algebra via the logarithmic map.
 
 ## References
+
 [[@gaoIntroductionVisualSLAM2022]]

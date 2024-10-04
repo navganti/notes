@@ -41,4 +41,4 @@ tags:
 
 # Citation
 
-Ahrens, S. (2017). _How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers_. 
+Ahrens, S. (2017). _How to take smart notes: One simple technique to boost writing, learning and thinking: for students, academics and nonfiction book writers_. CreateSpace.

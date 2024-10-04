@@ -13,8 +13,6 @@ Otherwise, we are effectively performing an integral $\int$ over a small area. I
 
 This is not attainable - rather, we ensure the [[depthofField|depth of field]] is appropriate for the subject.
 
-## Related
-
 ## References
 
 [[@levoyImageFormation]]

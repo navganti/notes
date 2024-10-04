@@ -11,4 +11,5 @@ Matrix factorization is the process of breaking down a matrix into submatrices. 
     - An identity matrix with swapped columns will swap the columns of a *premultiplied* matrix
 
 ## References
+
 [[@nocedalNumericalOptimization2006]]

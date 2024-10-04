@@ -22,4 +22,5 @@ The Lie algebra can be converted to the Lie group via the exponential map. For r
 >We want to use the Lie algebra over the Lie group when optimizing for a rotation or transformation variable, because this allows for the optimization to be *unconstrained*. 
 
 ## References
+
 [[@gaoIntroductionVisualSLAM2022]]

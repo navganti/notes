@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "776519f5c9536b85",
+        "id": "a1b3d781e7b6830f",
         "type": "tabs",
         "children": [
           {
-            "id": "91c5246c37c88a0b",
+            "id": "6bd4dfd49bdb3038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/writingVsCoding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -41,6 +45,21 @@
             }
           },
           {
+            "id": "2cd3b94ab292e5c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "e46fe475b951eb50",
             "type": "leaf",
             "state": {
@@ -60,14 +79,16 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "notes/writingVsCoding.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 334
   },
   "right": {
     "id": "d9e7fde226018175",
@@ -83,22 +104,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/writingVsCoding.md"
+              }
             }
           },
           {
-            "id": "b40f9cd9b990627e",
+            "id": "f72645ccc3eac59b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/writingVsCoding.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -108,23 +132,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/writingVsCoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "2cd3b94ab292e5c1",
+            "id": "8b1076ac76574a41",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "all-properties",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -154,24 +176,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8b1076ac76574a41",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": true,
-                "searchQuery": ""
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,23 +194,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "91c5246c37c88a0b",
+  "active": "6bd4dfd49bdb3038",
   "lastOpenFiles": [
-    "references/@vaswaniAttentionAllYou2023.md",
-    "notes/transformer.md",
-    "attachments/transformers/model_architecture.png",
-    "attachments/transformers",
-    "notes/aperture.md",
-    "notes/qrFactorization.md",
-    "notes/writingVsCoding.md",
     "notes/vanishingPoints.md",
+    "notes/transformer.md",
+    "notes/tokenization.md",
+    "notes/shutterSpeed.md",
     "notes/scaledDotProductAttention.md",
-    "notes/202410031645.md",
-    "notes/depthofField.md",
-    "attachments/luFactorization/mitopencoursewareFactorizationLU2017_001.jpg",
-    "notes/attention.md",
+    "notes/quadraticProgramming.md",
+    "notes/qrFactorization.md",
     "notes/positionalEncoding.md",
-    "templates/note_template.md",
+    "notes/perturbationModel.md",
+    "notes/perfectFocus.md",
+    "notes/oneDefinitionRule.md",
     "notes/matrixFactorization.md",
     "notes/mathGroup.md",
     "notes/luFactorization.md",
@@ -212,12 +219,16 @@
     "notes/irradiance.md",
     "notes/focalLength.md",
     "notes/exposure.md",
+    "notes/depthofField.md",
     "notes/cppTranslation.md",
-    "coppermind",
+    "notes/cppLinkage.md",
+    "attachments/transformers/model_architecture.png",
+    "attachments/transformers",
     "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",
     "attachments/luFactorization",
     "attachments/microsoftLambdaExpressions",
     "attachments/gaoIntroductionVisualSLAM2022",
+    "coppermind",
     "attachments/microsoftLambdaExpressions/corob-msftLambdaExpressions_001.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

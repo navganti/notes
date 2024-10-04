@@ -19,5 +19,6 @@ $$
 Where $J_l$ is the linear left Jacobian found in the $\mathfrak{se}(3)$ exponential map. This is specifically the *left* Jacobian model.
 
 ## References
+
 [[@gaoIntroductionVisualSLAM2022]]
 

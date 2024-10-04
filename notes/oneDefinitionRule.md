@@ -8,7 +8,6 @@ The one [[cppDefinition|definition]] rule states that there can only be one defi
 
 The exception to this is if a function is defined `inline`.
 
-## Related
-
 ## References
+
 [[@cppconBackBasicsStructure2020]]

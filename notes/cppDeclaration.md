@@ -18,4 +18,5 @@ A function declaration may contain argument names, purely to help the reader of 
 >A function cannot be called unless it has been previously declared.
 
 ## References
+
 [[@cppconBackBasicsStructure2020]]
