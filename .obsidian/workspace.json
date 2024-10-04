@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/scaledDotProductAttention.md",
+                "file": "notes/transformer.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -80,7 +80,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "notes/scaledDotProductAttention.md"
+                "file": "notes/transformer.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/scaledDotProductAttention.md"
+                "file": "notes/transformer.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/scaledDotProductAttention.md",
+                "file": "notes/transformer.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/scaledDotProductAttention.md",
+                "file": "notes/transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +195,14 @@
   },
   "active": "6bd4dfd49bdb3038",
   "lastOpenFiles": [
+    "notes/attention.md",
+    "notes/scaledDotProductAttention.md",
     "references/@strangFactorizationLU2017.md",
     "notes/writingVsCoding.md",
     "notes/vanishingPoints.md",
     "notes/transformer.md",
     "notes/tokenization.md",
     "notes/shutterSpeed.md",
-    "notes/scaledDotProductAttention.md",
     "notes/quadraticProgramming.md",
     "notes/qrFactorization.md",
     "notes/positionalEncoding.md",
@@ -221,7 +221,6 @@
     "notes/irradiance.md",
     "notes/focalLength.md",
     "notes/exposure.md",
-    "notes/depthofField.md",
     "attachments/transformers/model_architecture.png",
     "attachments/transformers",
     "attachments/gaoIntroductionVisualSLAM2022/gaoIntroductionVisualSLAM2022_001.png",

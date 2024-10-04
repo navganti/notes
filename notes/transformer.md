@@ -6,7 +6,7 @@ tags: [machine_learning]
 
 The transformer is an architecture introduced by [@vaswaniAttentionAllYou2023]. This network relies on [[attention]] to perform sequence transduction tasks.
 
-![[model_architecture.png]]
+![[model_architecture.png|400]]
 
 This first version of the network proposed is an encoder-decoder architecture with 6 encoder layers and 6 decoder layers.
 
